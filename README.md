@@ -1,4 +1,4 @@
-# company-test-project
+# test-task
 
 ## Project setup
 ```

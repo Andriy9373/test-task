@@ -84,7 +84,7 @@ export default {
             else {
                 this.addAlert({
                     color: 'red',
-                    message: labels.username_or_password_entered_incorrect
+                    message: this.labels.username_or_password_entered_incorrect
                 })
             }
         }
